@@ -1,0 +1,188 @@
+
+Hammer.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleRight
+  rotate: false
+  xy: 2, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 2, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 644, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 644, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleRight
+  rotate: false
+  xy: 2, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 1286, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleRight
+  rotate: false
+  xy: 644, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 2, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 2, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 644, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 1286, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 1286, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 1928, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 1928, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 2, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 2570, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 644, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 3212, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 1286, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 1286, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 1928, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 1928, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 2570, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 2570, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingRight
+  rotate: false
+  xy: 644, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+swingLeft
+  rotate: false
+  xy: 3212, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1

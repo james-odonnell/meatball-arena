@@ -1,0 +1,132 @@
+
+MeatballCharacter.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+right
+  rotate: false
+  xy: 2, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1286, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1286, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1928, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 644, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 2, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 644, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 644, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1286, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1286, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1928, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 2570, 1610
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 644, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 644, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1

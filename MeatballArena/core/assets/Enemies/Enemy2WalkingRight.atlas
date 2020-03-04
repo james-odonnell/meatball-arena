@@ -1,0 +1,125 @@
+
+Enemy2WalkingRight.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walking
+  rotate: false
+  xy: 2, 1019
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 454, 806
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 454, 404
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 906, 806
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 906, 404
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1358, 806
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1358, 404
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 454, 2
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 639, 1610
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 2, 617
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1091, 1610
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 2, 215
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1543, 1610
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 639, 1208
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1091, 1208
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+walking
+  rotate: false
+  xy: 1543, 1208
+  size: 450, 400
+  orig: 450, 400
+  offset: 0, 0
+  index: -1
+enemy2-right-dead
+  rotate: false
+  xy: 2, 1421
+  size: 635, 589
+  orig: 635, 589
+  offset: 0, 0
+  index: -1

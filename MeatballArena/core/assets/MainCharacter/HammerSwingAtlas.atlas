@@ -1,0 +1,69 @@
+
+HammerSwingAtlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HammerSwingFrame1
+  rotate: false
+  xy: 2, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame2
+  rotate: false
+  xy: 2, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame3
+  rotate: false
+  xy: 644, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame4
+  rotate: false
+  xy: 2, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame5
+  rotate: false
+  xy: 644, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame6
+  rotate: false
+  xy: 1286, 1208
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame7
+  rotate: false
+  xy: 2, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame8
+  rotate: false
+  xy: 644, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+HammerSwingFrame9
+  rotate: false
+  xy: 1286, 806
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
